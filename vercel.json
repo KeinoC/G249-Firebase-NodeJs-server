@@ -1,5 +1,4 @@
 {
-    "builds": [{ "src": "package.json", "use": "@vercel/node" }],
     "env": {
         "apiKey": "AIzaSyDUZQEQHDvLLmYdK9bqB-crKOFStpULkmk",
         "authDomain": "g249api.firebaseapp.com",
