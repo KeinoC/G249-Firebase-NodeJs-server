@@ -1,4 +1,13 @@
 {
+    "name": "my-app",
+    "version": "1.0.0",
+    "description": "My Node.js application",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js",
+        "build": "echo 'Build process goes here'"
+    },
     "dependencies": {
         "cors": "^2.8.5",
         "express": "^4.17.3",
